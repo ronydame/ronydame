@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ronydame
+- 👋 Hi, I’m Rony Dame Saragih
 - 👀 I’m interested in C language
 - 🌱 I’m currently learning C language and the other language programs (like python, java, etc.)
-- 💞️ I’m looking to collaborate with Indonesian because of my limitation in English
+- 💞️ Actually, I’m especially looking to collaborate with Indonesian because of my limitation language in English, but it will not limit me personally to collaborate to everyone.
 - 📫 You can reach me by contacting 24ronydame@gmail.com
 
 <!---
